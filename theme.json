@@ -1,0 +1,22 @@
+{
+  "id": "arc-findbar",
+  "author": "b2theh",
+  "name": "Arc Findbar",
+  "description": "A compact Arc-inspired find-in-page panel in the top-right corner, with native previous, next and close buttons.",
+  "version": "1.0.0",
+  "createdAt": "2026-10-30",
+  "updatedAt": "2026-10-30T00:00:00Z",
+  "style": {
+    "chrome": "chrome.css"
+  },
+  "tags": [
+    "Findbar",
+    "Minimal",
+    "Arc"
+  ],
+  "fork": [
+    "zen"
+  ],
+  "homepage": "https://github.com/b2theh/ArcFindbar",
+  "readme": "https://github.com/b2theh/ArcFindbar/blob/main/README.md"
+}
